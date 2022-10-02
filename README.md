@@ -10,44 +10,44 @@
   
   <!-- Social Network -->
 <h1 align="center">
-<a target="_blank" href="http://facebook.com/Com4Muz/">
+<a target="_blank" href="http://facebook.com/">
   <img align="center" 
-       alt="Com4Muz's Facebook" 
+       alt="Sofiane Abou Abderrahim's Facebook" 
        width="22px" 
        src="https://user-images.githubusercontent.com/104463396/165577973-48c4c5b4-d369-4ae0-ade3-c575d6f9f938.svg" />
 </a>
   
-<a target="_blank" href="https://www.instagram.com/com4muz/">
+<a target="_blank" href="https://www.instagram.com/">
   <img align="center" 
-       alt="Com4Muz's Instagram" 
+       alt="Sofiane Abou Abderrahim's Instagram" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
   
-<a target="_blank" href="https://www.linkedin.com/in/com4muz-web-agency-a438691b4/">
+<a target="_blank" href="https://www.linkedin.com/in/sofiane-abou-abderrahim/">
   <img align="center" 
-       alt="Com4Muz's Linkdein" 
+       alt="Sofiane Abou Abderrahim's Linkdein" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
 
-  <a target="_blank" href="https://www.codegrepper.com/profile/sofiane-abou-safwan">
+  <a target="_blank" href="https://www.codegrepper.com/profile/">
   <img align="center" 
-       alt="Sofiane Abou Safwan's Grepper" 
+       alt="Sofiane Abou Abderrahim's Grepper" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />
   </a>
   
-<a target="_blank" href="https://stackoverflow.com/users/16307091/sofiane-r">
+<a target="_blank" href="https://stackoverflow.com/users/">
   <img align="center" 
-       alt="Sofiane Abou Safwan's Stack Overflow" 
+       alt="Sofiane Abou Abderrahim's Stack Overflow" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
   </a>
   
-<a href="mailto:contact@com4muz.com">
+<a href="mailto:sofianeabouabderrahim@gmail.com">
   <img align="center" 
-       alt="Com4Muz's Gmail" 
+       alt="Sofiane Abou Abderrahim's Gmail" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
@@ -115,13 +115,13 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/SofianeAbouSafwan?tab=repositories">
+<a href="https://github.com/sofiane-abou-abderrahim?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofianeabousafwan&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Sofiane ABou Safwan's favorite languages" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofianeabouabderrahim&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       alt='Sofiane Abou Abderrahim's favorite languages" />
 </a>
   
-<a href="https://github.com/SofianeAbouSafwan">
+<a href="https://github.com/sofiane-abou-abderrahim">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=sofianeabousafwan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://github-readme-stats.vercel.app/api?username=sofianeabouabderrahim&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
