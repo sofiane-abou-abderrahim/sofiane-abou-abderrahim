@@ -38,7 +38,7 @@
        src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />
   </a>
   
-<a target="_blank" href="https://stackoverflow.com/users/">
+<a target="_blank" href="https://stackoverflow.com/users/21484270/sofiane-abou-abderrahim">
   <img align="center" 
        alt="Sofiane Abou Abderrahim's Stack Overflow" 
        width="22px" 
