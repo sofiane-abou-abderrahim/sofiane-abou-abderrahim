@@ -10,7 +10,7 @@
   
   <!-- Social Network -->
 <h1 align="center">
-<a target="_blank" href="https://web.facebook.com/sofianeabouabderrahim">
+<a href="https://web.facebook.com/sofianeabouabderrahim" target="_blank" >
   <img align="center" 
        alt="Sofiane Abou Abderrahim's Facebook" 
        width="22px" 
